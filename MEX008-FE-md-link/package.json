@@ -1,4 +1,33 @@
 {
-  "name": "md-links",
-  "version": "0.1.0"
+  "name": "md-links-v100",
+  "version": "0.1.1",
+  "description": "## Índice",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anabahena/MEX008-FE-md-link.git"
+  },
+  "keywords": [
+    "markdown",
+    "links"
+  ],
+  "author": "Ana Luisa González Bahena",
+  "license": "ISC",
+  "bin": {
+    "links100": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/anabahena/MEX008-FE-md-link/issues"
+  },
+  "homepage": "https://github.com/anabahena/MEX008-FE-md-link#readme",
+  "dependencies": {
+    "markdown-it": "^9.1.0",
+    "restore": "^0.3.0"
+  }
 }
