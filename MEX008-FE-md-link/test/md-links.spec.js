@@ -1,4 +1,4 @@
-const mdLinks = require('./readFile');
+const mdLinks = require('../');
 
 
 describe('mdLinks', () => {
