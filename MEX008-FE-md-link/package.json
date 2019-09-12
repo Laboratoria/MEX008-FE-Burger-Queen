@@ -1,0 +1,29 @@
+{
+  "name": "md-links-search",
+  "version": "0.1.0",
+  "description": "## Índice",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anabahena/MEX008-FE-md-link.git"
+  },
+  "keywords": [
+    "links",
+    "search"
+  ],
+  "author": "Ana Luisa González Bahena",
+  "license": "ISC",
+  "bin": {
+    "search-links": "cli.js"
+  },
+  "bugs": {
+    "url": "https://github.com/anabahena/MEX008-FE-md-link/issues"
+  },
+  "homepage": "https://github.com/anabahena/MEX008-FE-md-link#readme"
+}
